@@ -1,0 +1,6 @@
+{
+  "pack": {
+    "pack_format": 1,
+    "description": "L2 artifactsのドロップ条件を体力からすべてのモブから確率で落とすに変更"
+  }
+}

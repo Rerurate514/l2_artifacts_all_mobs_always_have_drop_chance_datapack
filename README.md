@@ -4,7 +4,7 @@ This changes the drop conditions of the L1 Artifacts MOD artifacts from HP to pr
 
 ---
 
-- 1 : 5%
+- 1 : 3%
 - 2 : 1%
 - 3 : 0.1%
 - 4 : 0.01%
